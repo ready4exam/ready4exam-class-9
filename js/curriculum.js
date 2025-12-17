@@ -86,7 +86,7 @@ export const curriculum = {
     "History": [
       {
         "chapter_title": "The French Revolution",
-        "table_id": "",
+        "table_id": "social_french_revolution_9_quiz",
         "section": "Social Science"
       },
       {
