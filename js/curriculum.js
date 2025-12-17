@@ -238,7 +238,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Areas of Parallelograms and Triangles",
-        "table_id": "",
+        "table_id": "mathematics_areas_triangles_9_quiz",
         "section": "Mathematics"
       },
       {
