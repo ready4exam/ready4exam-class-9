@@ -101,7 +101,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Forest Society and Colonialism",
-        "table_id": "",
+        "table_id": "social_forest_colonialism_9_quiz",
         "section": "Social Science"
       },
       {
