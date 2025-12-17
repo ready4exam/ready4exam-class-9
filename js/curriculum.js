@@ -91,7 +91,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Socialism in Europe and the Russian Revolution",
-        "table_id": "",
+        "table_id": "social_socialism_revolution_9_quiz",
         "section": "Social Science"
       },
       {
