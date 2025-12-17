@@ -118,7 +118,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "What is Democracy? Why Democracy?",
-        "table_id": "",
+        "table_id": "social_what_democracy_9_quiz",
         "section": "Social Science"
       },
       {
