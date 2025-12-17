@@ -133,7 +133,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Working of Institutions",
-        "table_id": "",
+        "table_id": "social_working_institutions_9_quiz",
         "section": "Social Science"
       },
       {
