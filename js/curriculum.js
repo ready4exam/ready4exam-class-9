@@ -150,7 +150,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Physical Features of India",
-        "table_id": "",
+        "table_id": "social_physical_india_9_quiz",
         "section": "Social Science"
       },
       {
