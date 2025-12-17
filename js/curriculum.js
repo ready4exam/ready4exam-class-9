@@ -128,7 +128,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Electoral Politics",
-        "table_id": "",
+        "table_id": "social_electoral_politics_9_quiz",
         "section": "Social Science"
       },
       {
