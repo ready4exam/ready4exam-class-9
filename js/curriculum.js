@@ -201,7 +201,7 @@ export const curriculum = {
     "Algebra and Number System": [
       {
         "chapter_title": "Number Systems",
-        "table_id": "",
+        "table_id": "mathematics_number_systems_9_quiz",
         "section": "Mathematics"
       },
       {
