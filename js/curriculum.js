@@ -77,7 +77,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Improvement in Food Resources",
-        "table_id": "",
+        "table_id": "science_improvement_resources_9_quiz",
         "section": "Science"
       }
     ]
