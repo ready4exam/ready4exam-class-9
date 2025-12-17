@@ -67,7 +67,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Why Do We Fall Ill",
-        "table_id": "",
+        "table_id": "science_why_ill_9_quiz",
         "section": "Science"
       },
       {
