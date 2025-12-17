@@ -23,7 +23,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Sound",
-        "table_id": "",
+        "table_id": "science_sound_sound_9_quiz",
         "section": "Science"
       }
     ],
