@@ -160,7 +160,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Climate",
-        "table_id": "",
+        "table_id": "social_climate_climate_9_quiz",
         "section": "Social Science"
       },
       {
