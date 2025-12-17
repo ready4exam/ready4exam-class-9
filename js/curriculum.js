@@ -233,7 +233,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Quadrilaterals",
-        "table_id": "",
+        "table_id": "mathematics_quadrilaterals_quadrilaterals_9_quiz",
         "section": "Mathematics"
       },
       {
