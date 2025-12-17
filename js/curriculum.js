@@ -52,7 +52,7 @@ export const curriculum = {
     "Biology": [
       {
         "chapter_title": "The Fundamental Unit of Life",
-        "table_id": "",
+        "table_id": "science_fundamental_life_9_quiz",
         "section": "Science"
       },
       {
