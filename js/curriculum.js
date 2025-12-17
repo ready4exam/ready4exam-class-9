@@ -57,7 +57,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Tissues",
-        "table_id": "",
+        "table_id": "science_tissues_tissues_9_quiz",
         "section": "Science"
       },
       {
