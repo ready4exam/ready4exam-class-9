@@ -177,7 +177,7 @@ export const curriculum = {
     "Economics": [
       {
         "chapter_title": "The Story of Village Palampur",
-        "table_id": "",
+        "table_id": "social_story_palampur_9_quiz",
         "section": "Social Science"
       },
       {
