@@ -248,7 +248,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Constructions",
-        "table_id": "",
+        "table_id": "mathematics_constructions_constructions_9_quiz",
         "section": "Mathematics"
       }
     ],
