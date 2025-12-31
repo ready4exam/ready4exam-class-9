@@ -145,7 +145,7 @@ export const curriculum = {
     "Geography": [
       {
         "chapter_title": "India - Size and Location",
-        "table_id": "",
+        "table_id": "social_india_location_9_quiz",
         "section": "Social Science"
       },
       {
