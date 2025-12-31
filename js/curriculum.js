@@ -8,7 +8,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Force and Laws of Motion",
-        "table_id": "",
+        "table_id": "science_force_motion_9_quiz",
         "section": "Science"
       },
       {
