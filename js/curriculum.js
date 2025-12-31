@@ -96,7 +96,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Nazism and the Rise of Hitler",
-        "table_id": "",
+        "table_id": "social_nazism_hitler_9_quiz",
         "section": "Social Science"
       },
       {
