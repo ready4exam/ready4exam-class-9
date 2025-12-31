@@ -106,7 +106,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Pastoralists in Modern World",
-        "table_id": "",
+        "table_id": "social_pastoralists_world_9_quiz",
         "section": "Social Science"
       }
     ],
