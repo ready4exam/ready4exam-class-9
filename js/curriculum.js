@@ -113,7 +113,7 @@ export const curriculum = {
     "Civics": [
       {
         "chapter_title": "Democracy in the Contemporary World",
-        "table_id": "",
+        "table_id": "social_democracy_world_9_quiz",
         "section": "Social Science"
       },
       {
