@@ -170,7 +170,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Population",
-        "table_id": "",
+        "table_id": "social_population_population_9_quiz",
         "section": "Social Science"
       }
     ],
