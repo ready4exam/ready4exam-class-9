@@ -40,7 +40,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Atoms and Molecules",
-        "table_id": "",
+        "table_id": "science_atoms_molecules_9_quiz",
         "section": "Science"
       },
       {
