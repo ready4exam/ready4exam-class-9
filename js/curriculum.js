@@ -138,7 +138,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Democratic Rights",
-        "table_id": "",
+        "table_id": "social_democratic_rights_9_quiz",
         "section": "Social Science"
       }
     ],
