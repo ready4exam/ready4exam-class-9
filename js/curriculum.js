@@ -123,7 +123,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Constitutional Design",
-        "table_id": "",
+        "table_id": "social_constitutional_design_9_quiz",
         "section": "Social Science"
       },
       {
