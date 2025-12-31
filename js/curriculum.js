@@ -30,7 +30,7 @@ export const curriculum = {
     "Chemistry": [
       {
         "chapter_title": "Matter in Our Surroundings",
-        "table_id": "",
+        "table_id": "science_matter_surroundings_9_quiz",
         "section": "Science"
       },
       {
