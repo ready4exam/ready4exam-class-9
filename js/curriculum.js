@@ -72,7 +72,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Natural Resources",
-        "table_id": "",
+        "table_id": "science_natural_resources_9_quiz",
         "section": "Science"
       },
       {
