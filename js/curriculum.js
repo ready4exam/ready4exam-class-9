@@ -187,7 +187,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Poverty as a Challenge",
-        "table_id": "",
+        "table_id": "social_poverty_challenge_9_quiz",
         "section": "Social Science"
       },
       {
