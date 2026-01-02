@@ -206,7 +206,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Polynomials",
-        "table_id": "",
+        "table_id": "mathematics_polynomials_polynomials_9_quiz",
         "section": "Mathematics"
       },
       {
