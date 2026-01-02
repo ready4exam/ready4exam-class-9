@@ -218,7 +218,7 @@ export const curriculum = {
     "Geometry": [
       {
         "chapter_title": "Introduction to Euclid’s Geometry",
-        "table_id": "",
+        "table_id": "mathematics_introduction_geometry_9_quiz",
         "section": "Mathematics"
       },
       {
