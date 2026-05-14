@@ -265,7 +265,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Surface Areas and Volumes",
-        "table_id": "",
+        "table_id": "mathematics_surface_volumes_9_quiz",
         "section": "Mathematics"
       },
       {
