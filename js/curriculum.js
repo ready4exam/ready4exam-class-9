@@ -260,7 +260,7 @@ export const curriculum = {
       },
       {
         "chapter_title": "Heron’s Formula",
-        "table_id": "",
+        "table_id": "mathematics_heron_formula_9_quiz",
         "section": "Mathematics"
       },
       {
