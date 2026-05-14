@@ -255,7 +255,7 @@ export const curriculum = {
     "Mensuration, Statistics and Probability": [
       {
         "chapter_title": "Coordinate Geometry",
-        "table_id": "",
+        "table_id": "mathematics_coordinate_geometry_9_quiz",
         "section": "Mathematics"
       },
       {
